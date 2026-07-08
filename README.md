@@ -17,3 +17,17 @@ The objective is to identify sales trends, analyze business performance, and bui
 - VS Code
 
 ---
+
+## 📈 Exploratory Data Analysis
+
+The following analyses were performed:
+
+- Checked dataset structure and data types
+- Identified missing values
+- Removed duplicate records
+- Calculated total sales and total profit
+- Found top-selling product sub-categories
+- Analyzed sales distribution across categories
+- Compared profit across regions
+
+---
