@@ -16,6 +16,7 @@ The objective is to identify sales trends, analyze business performance, and bui
 - Scikit-learn
 - VS Code
 - Sql
+
 ---
 
 ## 📈 Exploratory Data Analysis
