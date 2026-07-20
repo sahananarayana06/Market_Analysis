@@ -31,3 +31,15 @@ The following analyses were performed:
 - Compared profit across regions
 
 ---
+
+
+## 📊 Visualizations
+
+The project includes:
+
+- Top 10 Sub-Categories by Sales (Bar Chart)
+- Sales Distribution by Category (Pie Chart)
+- Profit by Region (Bar Chart)
+- Quantity vs Sales (Scatter Plot)
+
+---
