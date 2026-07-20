@@ -30,7 +30,6 @@ The following analyses were performed:
 ---
 
 ## 📊 Visualizations
-
 The project includes:
 - Top 10 Sub-Categories by Sales (Bar Chart)
 - Sales Distribution by Category (Pie Chart)
