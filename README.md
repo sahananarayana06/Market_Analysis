@@ -20,7 +20,6 @@ The objective is to identify sales trends, analyze business performance, and bui
 ## 📈 Exploratory Data Analysis
 
 The following analyses were performed:
-
 - Checked dataset structure and data types
 - Identified missing values
 - Removed duplicate records
