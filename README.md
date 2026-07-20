@@ -8,7 +8,6 @@ The objective is to identify sales trends, analyze business performance, and bui
 ---
 
 ## 🛠️ Technologies Used
-
 - Python
 - Pandas
 - NumPy
