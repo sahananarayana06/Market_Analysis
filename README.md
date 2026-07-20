@@ -32,7 +32,6 @@ The following analyses were performed:
 
 ---
 
-
 ## 📊 Visualizations
 
 The project includes:
